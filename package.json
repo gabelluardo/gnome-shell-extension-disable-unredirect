@@ -1,0 +1,15 @@
+{
+    "name": "gnome-shell-extension-disable-unredirect",
+    "version": "8.0.0",
+    "private": true,
+    "description": "A GNOME Shell extension that disables fullscreen window unredirect.",
+    "license": "GPL-3.0-only",
+    "scripts": {
+        "check": "biome check . && tsc --noEmit"
+    },
+    "devDependencies": {
+        "@biomejs/biome": "^2.5.1",
+        "@girs/gnome-shell": "^50.0.3",
+        "typescript": "^6.0.3"
+    }
+}

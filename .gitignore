@@ -1,1 +1,4 @@
 /.project
+/_build
+/node_modules
+/*.shell-extension.zip

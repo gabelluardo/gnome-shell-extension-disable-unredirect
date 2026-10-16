@@ -1,0 +1,9 @@
+{
+    "uuid": "unredirect@vaina.lt",
+    "name": "Disable unredirect fullscreen windows",
+    "description": "Disables unredirect for fullscreen windows to prevent input and tearing issues.",
+    "url": "https://github.com/kazysmaster/gnome-shell-extension-disable-unredirect",
+    "original-authors": ["Kazimieras Vaina"],
+    "shell-version": ["48", "49", "50", "51"],
+    "version": 8
+}
